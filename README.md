@@ -27,9 +27,10 @@ const gabriel = {
   role: ["Full Stack Developer", "Software Engineer"],
   focus: ["Web Applications", "SaaS", "Software Architecture", "APIs"],
   frontend: ["TypeScript", "JavaScript", "React", "Next.js", "HTML5", "CSS3"],
-  backend: ["Node.js", "Python", "PHP"],
+  backend: ["Node.js", "TypeScript", "JavaScript", "Python", "PHP", "Express.js", "REST APIs"],
   databases: ["PostgreSQL", "MySQL"],
-  devops: ["Docker", "Kubernetes", "Git", "CI/CD", "AWS"],
+  infrastructure: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+  engineering: ["Software Architecture", "API Design", "Git", "Security", "Scalability"],
   mindset: "Build. Ship. Improve."
 };
 ```
@@ -46,15 +47,19 @@ const gabriel = {
 
 ### Back-end & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,php,express" />
+
+**Node.js • TypeScript • JavaScript • Python • PHP • Express.js • REST APIs**
 
 ### Bancos de Dados
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-### DevOps, Cloud & Ferramentas
+### DevOps, Cloud & Infraestrutura
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode" />
+
+**Docker • Kubernetes • AWS • CI/CD • Git • GitHub**
 
 </div>
 
@@ -64,10 +69,10 @@ const gabriel = {
 
 ```text
 Frontend        → React • Next.js • TypeScript • Responsive UI
-Backend         → Node.js • Python • APIs REST • Regras de negócio
+Backend         → Node.js • TypeScript • Python • PHP • Express.js • REST APIs
 Data            → PostgreSQL • MySQL • Modelagem de dados
-DevOps          → Docker • Kubernetes • CI/CD • AWS
-Engineering     → Arquitetura • Git • Integrações • Segurança • Escalabilidade
+Infrastructure  → Docker • Kubernetes • AWS • CI/CD
+Engineering     → Arquitetura • API Design • Git • Segurança • Escalabilidade
 ```
 
 ---
