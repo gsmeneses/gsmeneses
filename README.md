@@ -114,9 +114,12 @@ Sistema **SaaS de gerenciamento empresarial** desenvolvido para a Proconnect Eng
 **Foco de engenharia:** arquitetura SaaS • gestão centralizada • regras de negócio • controle de dados • autenticação e usuários • dashboards gerenciais • automação de processos • escalabilidade e evolução modular.
 
 ### 💻 Nexora Development
-Desenvolvimento de **sites, sistemas e soluções digitais sob medida**, unindo engenharia de software, desenvolvimento web e experiência de usuário para transformar necessidades de negócio em produtos digitais.
 
-🌐 **Projeto:** [nexoradevelopment.com.br](https://nexoradevelopment.com.br/)
+> ✅ **Status: Projeto finalizado e publicado em produção**
+
+Projeto web desenvolvido e concluído para apresentar os serviços e soluções digitais da Nexora Development, com foco em presença digital, experiência do usuário e apresentação profissional da marca.
+
+🌐 **Aplicação em produção:** [nexoradevelopment.com.br](https://nexoradevelopment.com.br/)
 
 ---
 
