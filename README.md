@@ -97,12 +97,18 @@ Engineering     → Arquitetura • API Design • Segurança • Escalabilidade
 
 ## 🚀 Projetos & Produtos
 
-### 🛡️ RealityCheck
+### 🛡️ Nexus RealityCheck
+
+> 🚧 **Status: Em desenvolvimento**
+
 Plataforma de **segurança digital e prevenção contra golpes**, projetada para analisar sinais de risco em links, domínios, empresas e conteúdos suspeitos.
 
 **Conceitos e recursos:** análise de URLs e domínios • verificação de empresas/CNPJ • score de risco • histórico de análises • alertas • explicações de risco • arquitetura preparada para integrações e automação.
 
 ### 🏗️ Proconnect Engenharia — Management SaaS
+
+> 🚧 **Status: Em desenvolvimento**
+
 Sistema **SaaS de gerenciamento empresarial** desenvolvido para a Proconnect Engenharia, com foco em centralizar processos operacionais e informações de gestão em uma única plataforma web.
 
 **Foco de engenharia:** arquitetura SaaS • gestão centralizada • regras de negócio • controle de dados • autenticação e usuários • dashboards gerenciais • automação de processos • escalabilidade e evolução modular.
