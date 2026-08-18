@@ -138,13 +138,16 @@ Projeto web desenvolvido e concluído para apresentar os serviços e soluções 
 
 ---
 
-## 📊 GitHub
+## 🕹️ Contribution Arcade
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gsmeneses&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmeneses&layout=compact&hide_border=true&langs_count=8" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gsmeneses&hide_border=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsmeneses/gsmeneses/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsmeneses/gsmeneses/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gsmeneses/gsmeneses/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
 </div>
 
 ---
