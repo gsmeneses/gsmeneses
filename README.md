@@ -102,10 +102,10 @@ Plataforma de **segurança digital e prevenção contra golpes**, projetada para
 
 **Conceitos e recursos:** análise de URLs e domínios • verificação de empresas/CNPJ • score de risco • histórico de análises • alertas • explicações de risco • arquitetura preparada para integrações e automação.
 
-### ⚡ Nexus LifeOS
-Projeto de plataforma focada em centralizar **produtividade, organização e serviços digitais** em um único ecossistema, pensado como uma camada central para diferentes necessidades do usuário.
+### 🏗️ Proconnect Engenharia — Management SaaS
+Sistema **SaaS de gerenciamento empresarial** desenvolvido para a Proconnect Engenharia, com foco em centralizar processos operacionais e informações de gestão em uma única plataforma web.
 
-**Foco de engenharia:** arquitetura modular • experiência integrada • escalabilidade • automação • evolução contínua de funcionalidades.
+**Foco de engenharia:** arquitetura SaaS • gestão centralizada • regras de negócio • controle de dados • autenticação e usuários • dashboards gerenciais • automação de processos • escalabilidade e evolução modular.
 
 ### 💻 Nexora Development
 Desenvolvimento de **sites, sistemas e soluções digitais sob medida**, unindo engenharia de software, desenvolvimento web e experiência de usuário para transformar necessidades de negócio em produtos digitais.
