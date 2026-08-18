@@ -29,9 +29,10 @@ const gabriel = {
   frontend: ["TypeScript", "JavaScript", "React", "Next.js", "HTML5", "CSS3"],
   backend: ["Node.js", "TypeScript", "JavaScript", "Python", "PHP", "Express.js", "REST APIs"],
   databases: ["PostgreSQL", "MySQL"],
-  infrastructure: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+  devops: ["Docker", "Kubernetes", "AWS", "Terraform", "GitHub Actions", "GitLab CI/CD", "Rancher", "Nginx", "Linux"],
+  observability: ["Grafana", "Prometheus"],
   versionControl: ["Git", "GitHub"],
-  tools: ["VS Code"],
+  tools: ["VS Code", "Postman", "Insomnia", "npm"],
   engineering: ["Software Architecture", "API Design", "Security", "Scalability"],
   mindset: "Build. Ship. Improve."
 };
@@ -44,36 +45,35 @@ const gabriel = {
 <div align="center">
 
 ### Front-end
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 ### Back-end & APIs
-
 <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,php,express" />
 
 **Node.js • TypeScript • JavaScript • Python • PHP • Express.js • REST APIs**
 
 ### Bancos de Dados
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 ### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,gitlab,nginx,linux" />
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+**Docker • Kubernetes • AWS • Terraform • GitHub Actions • GitLab CI/CD • Rancher • Nginx • Linux**
 
-**Docker • Kubernetes • AWS • CI/CD • GitHub Actions**
+### Observabilidade & Monitoramento
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+
+**Grafana • Prometheus**
 
 ### Versionamento
-
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 **Git • GitHub**
 
 ### Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
 
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-**Visual Studio Code**
+**Visual Studio Code • Postman • Insomnia • npm**
 
 </div>
 
@@ -85,7 +85,8 @@ const gabriel = {
 Frontend        → React • Next.js • TypeScript • Responsive UI
 Backend         → Node.js • TypeScript • Python • PHP • Express.js • REST APIs
 Data            → PostgreSQL • MySQL • Modelagem de dados
-DevOps & Cloud  → Docker • Kubernetes • AWS • CI/CD • GitHub Actions
+DevOps & Cloud  → Docker • Kubernetes • AWS • Terraform • CI/CD • Nginx • Linux
+Observability   → Grafana • Prometheus
 Version Control → Git • GitHub
 Engineering     → Arquitetura • API Design • Segurança • Escalabilidade
 ```
@@ -95,19 +96,16 @@ Engineering     → Arquitetura • API Design • Segurança • Escalabilidade
 ## 🚀 Projetos & Produtos
 
 ### 🛡️ RealityCheck
-
 Plataforma de **segurança digital e prevenção contra golpes**, projetada para analisar sinais de risco em links, domínios, empresas e conteúdos suspeitos.
 
 **Conceitos e recursos:** análise de URLs e domínios • verificação de empresas/CNPJ • score de risco • histórico de análises • alertas • explicações de risco • arquitetura preparada para integrações e automação.
 
 ### ⚡ Nexus LifeOS
-
 Projeto de plataforma focada em centralizar **produtividade, organização e serviços digitais** em um único ecossistema, pensado como uma camada central para diferentes necessidades do usuário.
 
 **Foco de engenharia:** arquitetura modular • experiência integrada • escalabilidade • automação • evolução contínua de funcionalidades.
 
 ### 💻 Nexora Development
-
 Desenvolvimento de **sites, sistemas e soluções digitais sob medida**, unindo engenharia de software, desenvolvimento web e experiência de usuário para transformar necessidades de negócio em produtos digitais.
 
 🌐 **Projeto:** [nexoradevelopment.com.br](https://nexoradevelopment.com.br/)
@@ -132,14 +130,10 @@ Desenvolvimento de **sites, sistemas e soluções digitais sob medida**, unindo 
 ## 📊 GitHub
 
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gsmeneses&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmeneses&layout=compact&hide_border=true&langs_count=8" />
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsmeneses&hide_border=true" />
-
 </div>
 
 ---
