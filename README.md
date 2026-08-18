@@ -71,7 +71,7 @@ const gabriel = {
 **Git • GitHub**
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,insomnia,npm" />
 
 **Visual Studio Code • Postman • Insomnia • npm**
 
