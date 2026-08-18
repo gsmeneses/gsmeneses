@@ -30,7 +30,9 @@ const gabriel = {
   backend: ["Node.js", "TypeScript", "JavaScript", "Python", "PHP", "Express.js", "REST APIs"],
   databases: ["PostgreSQL", "MySQL"],
   infrastructure: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-  engineering: ["Software Architecture", "API Design", "Git", "Security", "Scalability"],
+  versionControl: ["Git", "GitHub"],
+  tools: ["VS Code"],
+  engineering: ["Software Architecture", "API Design", "Security", "Scalability"],
   mindset: "Build. Ship. Improve."
 };
 ```
@@ -55,11 +57,23 @@ const gabriel = {
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-### DevOps, Cloud & Infraestrutura
+### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
 
-**Docker • Kubernetes • AWS • CI/CD • Git • GitHub**
+**Docker • Kubernetes • AWS • CI/CD • GitHub Actions**
+
+### Versionamento
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+**Git • GitHub**
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+**Visual Studio Code**
 
 </div>
 
@@ -71,8 +85,9 @@ const gabriel = {
 Frontend        → React • Next.js • TypeScript • Responsive UI
 Backend         → Node.js • TypeScript • Python • PHP • Express.js • REST APIs
 Data            → PostgreSQL • MySQL • Modelagem de dados
-Infrastructure  → Docker • Kubernetes • AWS • CI/CD
-Engineering     → Arquitetura • API Design • Git • Segurança • Escalabilidade
+DevOps & Cloud  → Docker • Kubernetes • AWS • CI/CD • GitHub Actions
+Version Control → Git • GitHub
+Engineering     → Arquitetura • API Design • Segurança • Escalabilidade
 ```
 
 ---
